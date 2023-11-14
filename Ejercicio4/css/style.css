@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(255,232,163);
+  font-family: Verdana;
+}
+em{
+  color: gray;
+  
+}
+
+h2{
+  color:darkblue;
+}
+
+.subt{
+  color: darkblue;
+   font-weight: bold;
+
+  
+}
+
+
+#titulo{
+  background-color: orange;
+}
+
+.lista{
+  margin-left: 22px;
+}
+

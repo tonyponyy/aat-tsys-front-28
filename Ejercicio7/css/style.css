@@ -1,0 +1,62 @@
+#separador{
+  border: gray 1px solid;
+  padding: 12px;
+  margin-left: 120px;
+  margin-right: 12px;
+}
+
+#cuerpo{
+  background-color: white;
+}
+
+#cabecera{
+  width: 96%;
+  margin-left: 12px;
+}
+
+#caja_pagina{
+  width: 100%;
+  padding: 13px;
+
+}
+
+.cabecera{
+  width: 100%;
+}
+
+h3{
+  color: #f55a00;
+}
+
+h1{
+  letter-spacing: 6px;
+  color: green;
+  display: flex;
+  margin-left: 20%;
+}
+
+h2{
+  color: green;
+}
+
+#titulonaranja{
+  color:#f55a00;
+}
+
+hr{
+  color: white;
+}
+
+body{
+  font-family: Lucida Sans Unicode;
+  width: 900px;
+   margin: 0 auto;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,81 @@
+#separador {
+  border: gray 1px solid;
+  padding: 12px;
+  margin-left: 120px;
+  margin-right: 12px;
+  padding-bottom: 43px;
+  background: linear-gradient(to bottom, lightgray 1%, white 10%, white);
+}
+
+#cuerpo {
+  background-color: white;
+  border-radius: 12px;
+}
+
+#cabecera {
+  width: 96%;
+  margin-left: 12px;
+}
+
+#caja_pagina {
+  width: 100%;
+  padding: 13px;
+  background-color: rgb(255, 255, 255);
+}
+
+.cabecera {
+  width: 100%;
+}
+
+h3 {
+  color: #f55a00;
+}
+
+h1 {
+  letter-spacing: 6px;
+  color: green;
+  display: flex;
+  margin-left: 20%;
+}
+
+h2 {
+  color: green;
+}
+
+#titulonaranja {
+  color: #f55a00;
+}
+
+hr {
+  color: white;
+}
+
+body {
+  font-family: Lucida Sans Unicode;
+  width: 900px;
+  margin: 0 auto;
+}
+
+ul {
+  display: block;
+  margin: 22px;
+  float: left;
+  list-style: none;
+}
+
+li {
+  border: gray 1px solid;
+  width: 90px;
+  margin-left: -60px;
+  padding: 12px;
+  margin-top: 3px;
+  background: linear-gradient(to bottom, white, #c9f25a);
+}
+li:hover {
+  background: linear-gradient(to bottom, white, #c87474);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
